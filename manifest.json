@@ -1,9 +1,9 @@
 {
   "name": "RDB:Профессионал",
   "author": "RDB and Zendesk",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "api_version": 1,
-  "default_locale": "en-us",
+  "default_locale": "ru-ru",
   "settings": [
     {
       "label": "colors",
