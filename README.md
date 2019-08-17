@@ -1,3 +1,3 @@
 # RDB24HelpCenterTheme
 
-For Zendesk HelpCenter https://rdb24.zendesk.com/
+For RDB24 Zendesk HelpCenter https://support.rdb24.com
